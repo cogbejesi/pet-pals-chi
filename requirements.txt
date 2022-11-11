@@ -178,7 +178,7 @@ pypandoc==1.4
 pyparsing==2.2.0
 pyreadline==2.1
 PySocks==1.6.8
-pyspark==2.3.2
+pyspark==3.2.2
 pytest==3.5.1
 pytest-arraydiff==0.2
 pytest-astropy==0.3.0
